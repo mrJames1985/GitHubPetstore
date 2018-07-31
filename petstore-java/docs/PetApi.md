@@ -333,6 +333,8 @@ null (empty response body)
 
 Updates a pet in the store with form data
 
+Updates the pet form
+
 ### Example
 ```java
 // Import classes:

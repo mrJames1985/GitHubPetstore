@@ -134,7 +134,7 @@ public class PetApiTest {
     /**
      * Updates a pet in the store with form data
      *
-     * 
+     * Updates the pet form
      *
      * @throws ApiException
      *          if the Api call fails

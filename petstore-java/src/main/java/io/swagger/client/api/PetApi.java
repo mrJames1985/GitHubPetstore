@@ -869,7 +869,7 @@ public class PetApi {
 
     /**
      * Updates a pet in the store with form data
-     * 
+     * Updates the pet form
      * @param petId ID of pet that needs to be updated (required)
      * @param name Updated name of the pet (optional)
      * @param status Updated status of the pet (optional)
@@ -881,7 +881,7 @@ public class PetApi {
 
     /**
      * Updates a pet in the store with form data
-     * 
+     * Updates the pet form
      * @param petId ID of pet that needs to be updated (required)
      * @param name Updated name of the pet (optional)
      * @param status Updated status of the pet (optional)
@@ -895,7 +895,7 @@ public class PetApi {
 
     /**
      * Updates a pet in the store with form data (asynchronously)
-     * 
+     * Updates the pet form
      * @param petId ID of pet that needs to be updated (required)
      * @param name Updated name of the pet (optional)
      * @param status Updated status of the pet (optional)
